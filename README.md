@@ -1,3 +1,3 @@
-### Hey there!
+### Hey!
 
-- I'm currently a Junior at the University of Texas at Austin, interested in Data Science, Math, and Machine Learning!
+- I'm currently a sophomore at the University of Texas at Austin, interested in data science and machine learning!
